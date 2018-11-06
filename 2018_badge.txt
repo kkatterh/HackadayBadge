@@ -1,0 +1,57 @@
+10 color 7,1
+11 led 2,1
+12 println "  ___   ____   _   _  "
+13 println "-/ __|-/  _ \-/ \-/ \-"
+14 println " | |_  | | \/ | | | | "
+15 println " \__ | | |    | | | | "
+16 println "  _| | | |_/\ | | | | "
+17 println "-|___/-\____/-\_/-\_/-"
+18 println "                      "
+19 wait 500
+20 println "Starcraft 2 Historic Figure"
+21 led 2,0
+22 wait 1400
+' s 
+23 led 2,1
+24 wait 200
+25 led 2,0
+26 wait 200
+27 led 2,1
+28 wait 200
+29 led 2,0
+30 wait 200
+31 led 2,1
+32 wait 200
+33 led 2,0
+34 wait 600 'space between letters
+'e
+35 led 2,1
+36 wait 200
+37 led 2,0
+38 wait 600 'space between letters
+'r
+39 led 2,1
+40 wait 200
+41 led 2,0
+42 wait 200
+43 led 2,1
+44 wait 600
+45 led 2,0
+46 wait 200
+47 led 2,1
+48 wait 200
+49 led 2,0
+50 wait 600 'space between letters
+'r
+39 led 2,1
+40 wait 200
+41 led 2,0
+42 wait 200
+43 led 2,1
+44 wait 600
+45 led 2,0
+46 wait 200
+47 led 2,1
+48 wait 200
+49 led 2,0
+50 wait 600 'space between letters
